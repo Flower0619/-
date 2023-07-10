@@ -98,8 +98,7 @@ header {
 
 .content {
   display: block;
-  background-image: url("../image-garage-15-IMG_7297.jpg");
-  opacity: 0.3;
+  background-image: url("file:///Users/etoudaigo/Desktop/Portfolio/image-garage-15-IMG_7297.jpg  opacity: 0.3");
   background-size: cover;
 }
 
